@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899106054258",
+    "project_id": "plmun-bussiness-hub",
+    "storage_bucket": "plmun-bussiness-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899106054258:android:28cff85a3497e9a8fda2eb",
+        "android_client_info": {
+          "package_name": "Plmunbusinesshub.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwv5zbWVLvVIc9z9RZ0qviD3b2pzH4_0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899106054258:android:61d16782bca05e47fda2eb",
+        "android_client_info": {
+          "package_name": "com.example.plmunbusinesshub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwv5zbWVLvVIc9z9RZ0qviD3b2pzH4_0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
